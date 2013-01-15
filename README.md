@@ -1,3 +1,3 @@
 ##Details
-仿掌中新浪分类滚动选择。
-![Alt text](screenshot.png "Screenshot")
+仿掌中新浪的分类下拉视图。
+![Alt text](https://raw.github.com/cgkim/SinaSlideView/master/screenshot.png "Screenshot")
